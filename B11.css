@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+
+p{
+    font-size: 0.8cm;
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+    color: rgb(84, 27, 27);
+    text-align: center;
+    font-size: 0.6cm;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: 0.8cm;
+    color: brown ;
+}
+

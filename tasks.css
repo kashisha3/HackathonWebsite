@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
+}
+
+h1{
+    text-align: center;
+    font-size: 2 cm;
+    margin-bottom: 50px !important;
+}
+
+.col-md-5{
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    margin-top: 50px !important;
+}
+
+input{
+    width: 85% !important;
+    border: 2px solid black !important;
+    display: inline !important;
+}
+
+button{
+    margin-left: 10px;
+}
+
+li{
+    list-style-type: none;
+    font-size: 0.8cm;
+    text-align: center;
+    display: inline;
+    width: 70%;
+    margin: 10px;
+}
+i{
+    color: red;
+    margin: 10px;
+}
+
